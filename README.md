@@ -4,7 +4,7 @@
 
 **Author**: Teerapong Panboonyuen (also known as Kao Panboonyuen)  
 **Project**: [SatDiff: A Stable Diffusion Framework for Satellite Image Inpainting](https://github.com/kaopanboonyuen/SatDiff)  
-**Publication**: [SatDiff: A Stable Diffusion Framework for Inpainting Very High-Resolution Satellite Imagery](https://ieeexplore.ieee.org/document/10929005), IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024
+**Publication**: [SatDiff: A Stable Diffusion Framework for Inpainting Very High-Resolution Satellite Imagery](https://ieeexplore.ieee.org/document/10929005), IEEE, 2025
 
 ---
 
