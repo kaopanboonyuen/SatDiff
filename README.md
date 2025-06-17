@@ -58,21 +58,21 @@ We recommend using a Python environment with CUDA for GPU acceleration.
 ## 🚀 Usage
 
 1. **Prepare Dataset**: Organize your dataset following the instructions in `docs/dataset_prep.md`.
-2. **Configure Settings**: Modify the `config.yaml` file with paths, model parameters, and training options.
+2. **Configure Settings**: Modify the `src/config.yaml` file with paths, model parameters, and training options.
 3. **Training**:
 
    ```bash
-   python train.py
+   python src/train.py
    ```
 4. **Evaluation**:
 
    ```bash
-   python evaluate.py
+   python src/evaluate.py
    ```
 5. **Inference**:
 
    ```bash
-   python inference.py --image_path path/to/image.png
+   python src/inference.py --image_path path/to/image.png
    ```
 
 ---
