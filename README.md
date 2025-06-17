@@ -108,12 +108,12 @@ For more insights, visit the [project page](https://kaopanboonyuen.github.io/Sat
 If you use SatDiff in your research, please cite:
 
 ```bibtex
-@inproceedings{panboonyuen2024satdiff,
+@article{panboonyuen2025satdiff,
   title={SatDiff: A Stable Diffusion Framework for Inpainting Very High-Resolution Satellite Imagery},
-  author={Panboonyuen, Teerapong and [Other Authors]},
-  booktitle={2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)},
-  year={2024},
-  organization={IEEE}
+  author={Panboonyuen, Teerapong and et al.},
+  journal={IEEE Access},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
